@@ -1,0 +1,28 @@
+
+
+#box1 {
+
+    background-color: beige;
+    width: 500px;
+    height: 600px;
+}
+
+#box2 {
+
+    background-color: blue;
+    width: 300;
+    height: 300;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+#box3 {
+
+    background-color: red;
+    width: 300;
+    padding: 10px;
+    color: yellow;
+    border: yellowgreen 10px dotted;
+
+    margin: 10px auto;
+}
